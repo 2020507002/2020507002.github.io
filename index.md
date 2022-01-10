@@ -38,3 +38,5 @@ Bu alanda çalışan kişilerin kısa vadede ve uzun vadede planlar yaparak çal
  * Üretim Yönetimi,
  * Sistem Analizi ve Tasarımı,
  * Ağ Yönetimi ve Bilgi Güvenliği
+                         
+                                                                                                        **Hazırlayan Vedat ÇİÇEK**
